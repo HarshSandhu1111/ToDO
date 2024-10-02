@@ -1,0 +1,9 @@
+.text{
+    background-color: rgb(46, 37, 83);
+    height: 40px;
+    width: 400px;
+    margin-top: 1rem;
+ color: white;
+    padding-left: 15px;
+    padding-top: 10px;
+}
